@@ -29,6 +29,6 @@ NOTE: We can't guarantee that you won't be blocked using this method, although i
 
 ## Contributors
 
-<a href="https://github.com/estevam5s/whatsapp-chatgpt">
-  <img src="https://contrib.rocks/image?repo=estevam5s/estevam5s" />
+<a href="https://github.com/estevam5s/gpt-dall-e-whatsapp/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=estevam5s/gpt-dall-e-whatsapp" />
 </a>
